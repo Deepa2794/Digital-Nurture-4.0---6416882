@@ -1,0 +1,46 @@
+.student-container {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.student-container h1 {
+  color: brown;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.label.name {
+  color: blue;
+}
+
+.value.name {
+  color: slateblue;
+}
+
+.label.school {
+  color: crimson;
+}
+
+.value.school {
+  color: plum;
+}
+
+.label.total {
+  color: darkred;
+}
+
+.value.total {
+  color: black;
+}
+
+.label.score {
+  color: green;
+}
+
+.value.score {
+  color: mediumseagreen;
+}
